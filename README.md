@@ -1,5 +1,5 @@
 # python-course : Version 3.12.3
-Hi, this is python course with the Basic Concept. Also contain 3 project based upon concept. Plus with Python Django Blog project
+Hi, this is python course with the Basic Concept. Also contain 3 project based upon concept. Plus with Python Django Blog project and the mastering Open AI Python & JavaScript API’s – ChatGPT, Dall-E, Whisper project.
 
 # To Learn Python Basic Concept
 Go to python-concept folder 
