@@ -13,4 +13,4 @@ Discover how to transcribe audio with exceptional accuracy using OpenAI's speech
 # Master the art of prompt engineering
 Learn the secrets to crafting effective prompts that unlock the true potential of OpenAI's models.
 
-Whether you're a programmer, artist, or simply curious about AI, this video is your ultimate guide to mastering OpenAI models with Python and JavaScript.
+Whether you're a programmer, artist, or simply curious about AI, this course is your ultimate guide to mastering OpenAI models with Python and JavaScript.
