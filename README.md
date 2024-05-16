@@ -9,3 +9,6 @@ Go to python-basic-projects folder
 
 # To Play With The Python Django Blog Project
 Go to python-django-blog-project
+
+# To Play With The Mastering Open AI Python & JavaScript API’s – ChatGPT, Dall-E, Whisper Project
+Go to python-openai-javascript-api
