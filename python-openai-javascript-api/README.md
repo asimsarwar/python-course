@@ -28,8 +28,6 @@ Whether you're a programmer, artist, or simply curious about AI, this course is 
 7. Click on play icon on the top right side inside Vs code.
 8. OR Please see the attached run-python-project-vs-code.png file.
 
-# OR Please see the attached run-python-project-vs-code.png file.
-
 # Javascript require package:
 1. Must install Node.js
 2. npm install dotenv
