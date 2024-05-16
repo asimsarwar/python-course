@@ -14,7 +14,7 @@ Whether you're a programmer, artist, or simply curious about AI, this course is 
 
 # Prerequisite:
 1. Login or Signup with: https://platform.openai.com/
-2: Generate API Key: https://platform.openai.com/api-keys
+2. Generate API Key: https://platform.openai.com/api-keys
 
 # Python require package:
 1. pip install openai
